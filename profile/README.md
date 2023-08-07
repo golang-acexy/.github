@@ -19,7 +19,7 @@ Here is a world of Golang, where only Golang projects exist. Currently, all star
   
 - gin
 
-  A `gin`-based HTTP service framework that simplifies the usage of `gin` and provides a unified and concise API, abstracting away some internal details.
+  A `gin` based HTTP service framework that simplifies the usage of `gin` and provides a unified and concise API, abstracting away some internal details.
   
 - gorm
 
